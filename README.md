@@ -20,3 +20,5 @@ The ELK stack provides a solution for centralized logging and real-time data ana
 2. **Logstash**: Collects and processes logs from the Spring Boot application.
 3. **Elasticsearch**: Stores processed logs for efficient searching.
 4. **Kibana**: Provides a graphical UI for log visualization and querying.
+
+Development may be continued
